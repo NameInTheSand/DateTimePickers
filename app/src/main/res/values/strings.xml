@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DateTimePickers</string>
+    <string name="lbl_select_day">Select day</string>
+    <string name="lbl_select_time">Select time</string>
+    <string name="hint_day">Your day will be here</string>
+    <string name="hint_time">Your time will be here</string>
+    <string name="lbl_selected_day">New date = %1$d Year, %2$d month %3$d day</string>
+    <string name="lbl_selected_time">New time = %1$d Hour, %2$d minute</string>
+</resources>
